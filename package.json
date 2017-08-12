@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wilcoln/confusion/issues"
   },
-  "homepage": "https://github.com/wilcoln/confusion#readme"
+  "homepage": "https://github.com/wilcoln/confusion#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }
